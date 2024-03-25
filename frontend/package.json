@@ -1,5 +1,7 @@
 {
   "dependencies": {
-    "bootstrap": "^3.4.1"
+    "@okta/okta-angular": "^6.3.1",
+    "@okta/okta-auth-js": "^6.4.0",
+    "@okta/okta-signin-widget": "^6.3.1"
   }
 }
